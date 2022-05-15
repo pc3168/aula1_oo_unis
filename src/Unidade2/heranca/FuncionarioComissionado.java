@@ -1,4 +1,4 @@
-package Unidade2;
+package Unidade2.heranca;
 
 public class FuncionarioComissionado extends Funcionario{
 
