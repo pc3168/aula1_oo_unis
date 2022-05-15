@@ -66,7 +66,7 @@ public class Guitarra {
 
     public static void main(String[] args) {
         Guitarra minhaGuitarra = new Guitarra(
-                "01020304", 
+                "01020304",
                 "fender",
                 "telecaster",
                 "elétrica",
